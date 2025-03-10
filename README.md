@@ -148,9 +148,24 @@ Sou o Davi, tenho 21 anos e sou estudante de computação na Universidade Federa
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviEmmerick&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api?username=DaviEmmerick&show_icons=true&count_private=true&hide=prs&theme=tokyonight&custom_title=GitHub Stats"
+  />
 </p>
 
 
-<h1 align="center" style="margin-top: 300px;">
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
+
+
+<h1 align="center" style="margin-top: 100px;">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+atenção!;" />
 </h1>
