@@ -148,7 +148,9 @@ Sou o Davi, tenho 21 anos e sou estudante de computação na Universidade Federa
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviEmmerick&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+</p>
 
+<p>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -156,7 +158,6 @@ Sou o Davi, tenho 21 anos e sou estudante de computação na Universidade Federa
     src="https://github-readme-stats.vercel.app/api?username=DaviEmmerick&show_icons=true&count_private=true&hide=prs&theme=tokyonight&custom_title=GitHub Stats"
   />
 </p>
-
 
 
 <picture align="center">
