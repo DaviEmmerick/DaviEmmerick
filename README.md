@@ -2,7 +2,7 @@
 
 **`Data Analytics & Data Scientist`**
 
-Sou o Davi, tenho 21 anos e sou estudante de computação na Universidade Federal Fluminense (UFF), no Rio de Janeiro. Sou um grande entusiasta da área de dados e atualmente atuo com análise de dados, business intelligence e machine learning, sempre buscando aprimorar minhas habilidades e explorar novas possibilidades na área de dados.
+Sou o Davi, tenho 21 anos e sou estudante de computação na Universidade Federal Fluminense (UFF), no Rio de Janeiro. Sou um grande entusiasta da área de dados e atualmente atuo como analytics engieneer, sempre buscando aprimorar minhas habilidades e explorar novas possibilidades na área de dados.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/davi-emmerick/">
