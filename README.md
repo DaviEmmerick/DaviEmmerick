@@ -141,10 +141,12 @@ Sou o Davi, tenho 21 anos e sou estudante de computação na Universidade Federa
 
 ### 📊 Estatísticas
 
-<a href="https://github.com/DaviEmmerick">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DaviEmmerick&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviEmmerick&layout=compact&langs_count=6&theme=radical"/>
-</a>
+<div align="center">
+  <a href="https://github.com/DaviEmmerick">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=DaviEmmerick&show_icons=true&theme=radical&v=1"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviEmmerick&layout=compact&langs_count=6&theme=radical&v=1"/>
+  </a>
+</div>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
