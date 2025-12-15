@@ -56,51 +56,11 @@ Sou o Davi, tenho 21 anos e sou estudante de computação na Universidade Federa
 />
 <img 
     align="left" 
-    alt="Pandas" 
-    title="Pandas"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-plain.svg" 
-/>
-<img 
-    align="left" 
-    alt="Numpy"
-    title="Numpy" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain.svg" 
-/>
-<img 
-    align="left" 
-    alt="Matplotlib"
-    title="Matplotlib" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-plain.svg" 
-/>
-<img 
-    align="left" 
     alt="Scikit learn" 
     title="Scikit learn"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Apache"
-    title="Apache airflow" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Docker" 
-    title="Docker"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
 />
 <img 
     align="left" 
@@ -112,30 +72,37 @@ Sou o Davi, tenho 21 anos e sou estudante de computação na Universidade Federa
 />
 <img 
     align="left" 
+    alt="Tensor" 
+    title="Tensor flow"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MLflow" 
+    title="MLflow"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://brandfetch.com/mlflow.org?view=library&library=default&collection=logos&asset=idOeRd2gAI&utm_source=https%253A%252F%252Fbrandfetch.com%252Fmlflow.org&utm_medium=copyAction&utm_campaign=brandPageReferral" 
+/>
+
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Power BI" 
     title="BI"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://img.icons8.com/fluency/48/power-bi-2021.png" 
 />
-<img 
-    align="left" 
-    alt="Excel" 
-    title="Excel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/color/48/ms-excel.png" 
-/>
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
 <br/>
 <br/>
 
