@@ -56,20 +56,12 @@ Sou o Davi, tenho 21 anos e sou estudante de computação na Universidade Federa
 />
 <img 
     align="left" 
-    alt="Scikit learn" 
-    title="Scikit learn"
+    alt="Neural Networks & AI" 
+    title="Neural Networks & AI"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" 
+    src="https://cdn-icons-png.flaticon.com/512/5208/5208111.png" 
 />
-<img 
-    align="left" 
-    alt="Tensor" 
-    title="Tensor flow"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" 
-/> 
 <img 
     align="left" 
     alt="flask" 
