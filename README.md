@@ -72,19 +72,11 @@ Sou o Davi, tenho 21 anos e sou estudante de computação na Universidade Federa
 />
 <img 
     align="left" 
-    alt="Tensor" 
-    title="Tensor flow"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" 
-/>
-<img 
-    align="left" 
     alt="MLflow" 
     title="MLflow"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://brandfetch.com/mlflow.org?view=library&library=default&collection=logos&asset=idOeRd2gAI&utm_source=https%253A%252F%252Fbrandfetch.com%252Fmlflow.org&utm_medium=copyAction&utm_campaign=brandPageReferral" 
+    src="https://cdn.simpleicons.org/mlflow/0194E2" 
 />
 
 <img 
