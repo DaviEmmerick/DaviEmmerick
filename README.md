@@ -80,8 +80,8 @@ Sou o Davi, tenho 21 anos e sou estudante de computação na Universidade Federa
 /> 
 <img 
     align="left" 
-    alt="flask" 
-    title="Flask"
+    alt="fastapi" 
+    title="FastAPI"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" 
