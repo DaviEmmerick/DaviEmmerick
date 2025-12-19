@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Davi F. Emmerick
 
-**`Data Scientist & Analytics`**
+**`Cientista de Dados`**
 
 Sou o Davi, tenho 21 anos e sou estudante de computação na Universidade Federal Fluminense (UFF), no Rio de Janeiro. Sou um grande entusiasta da área de dados e atualmente atuo como analytics engineer, sempre buscando aprimorar minhas habilidades e explorar novas possibilidades na área de dados.
 
