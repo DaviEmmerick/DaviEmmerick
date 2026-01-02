@@ -108,7 +108,11 @@ Tenho 21 anos, e possuo forte interesse em machine learning e MLOps. Atualmente 
 
 ### 📊 Estatísticas
 
-![Estatísticas Gerais](https://github-readme-stats.vercel.app/api?username=DaviEmmerick&show_icons=true&theme=radical)
+<div align="center">
+  <a href="https://github.com/DaviEmmerick">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviEmmerick&layout=compact&langs_count=6&theme=radical" alt="Top Langs"/>
+  </a>
+</div>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
