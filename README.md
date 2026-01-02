@@ -38,80 +38,20 @@ Tenho 21 anos, e possuo forte interesse em machine learning e MLOps. Atualmente 
 
 ### 🤖 Linguagens e Ferramentas
 
-<img 
-    align="left" 
-    alt="Python"
-    title="Python" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Postgres" 
-    title="Postgres"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Neural Networks & AI" 
-    title="Neural Networks & AI"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn-icons-png.flaticon.com/512/5208/5208111.png" 
-/>
-<img 
-    align="left" 
-    alt="flask" 
-    title="Flask"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" 
-/> 
-<img 
-    align="left" 
-    alt="fastapi" 
-    title="FastAPI"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MLflow" 
-    title="MLflow"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.simpleicons.org/mlflow/0194E2" 
-/>
-
-<img 
-    align="left" 
-    alt="Docker" 
-    title="Docker"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Power BI" 
-    title="BI"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/fluency/48/power-bi-2021.png" 
-/>
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
 <div align="center">
-  <a href="https://github.com/DaviEmmerick">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviEmmerick&layout=compact&langs_count=6&theme=radical" alt="Top Langs"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mlflow/0194E2" height="40" alt="mlflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="40" alt="powerbi logo"  />
 </div>
 
 <picture align="center">
