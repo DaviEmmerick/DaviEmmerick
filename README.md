@@ -52,6 +52,7 @@ Tenho 21 anos, e possuo forte interesse em machine learning e MLOps. Atualmente 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="40" alt="powerbi logo"  />
+  <img width="12"/>
 </div>
 
 <picture align="center">
