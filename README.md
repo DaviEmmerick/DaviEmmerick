@@ -110,7 +110,7 @@ Tenho 21 anos, e possuo forte interesse em machine learning, MLOps e GenAI. Atua
 
 <div align="center">
   <a href="https://github.com/DaviEmmerick">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviEmmerick&layout=compact&langs_count=6&theme=radical&v=2025"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviEmmerick&layout=compact&langs_count=6&theme=radical" alt="Top Langs"/>
   </a>
 </div>
 
