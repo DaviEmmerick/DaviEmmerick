@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Davi F. Emmerick
 
-**`Computer Vision & MLOps Engineer`**
+**`Machine Learning Engineer | Computer Vision`**
 
-Tenho 21 anos, e possuo forte interesse em machine learning e MLOps. Atualmente atuo como pesquisador e sou engenheiro de visão computacional.
+Tenho 21 anos, e possuo forte interesse em Machine learning e MLOps. Atualmente atuo como pesquisador e sou engenheiro de visão computacional.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/davi-emmerick/">
@@ -53,7 +53,6 @@ Tenho 21 anos, e possuo forte interesse em machine learning e MLOps. Atualmente 
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo" title="AWS" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="powerbi logo" title="Power BI" />
 </div>
 
 <picture align="center">
