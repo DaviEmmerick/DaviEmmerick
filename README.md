@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Davi França Emmerick
 
-**`Machine Learning Engineer | Computer Vision`**
+**`ML/MLOps Engineer | Computer Vision`**
 
 Tenho 21 anos, e possuo forte interesse em Machine learning, visão computacional e MLOps. Atualmente atuo como pesquisador e machine learning engineer.
 
