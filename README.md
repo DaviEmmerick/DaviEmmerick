@@ -2,7 +2,7 @@
 
 **`ML/MLOps Engineer | Computer Vision`**
 
-Tenho 21 anos, e possuo forte interesse em Machine learning, visão computacional e MLOps. Atualmente atuo como pesquisador e machine learning engineer.
+Tenho 21 anos, e possuo forte interesse em Machine learning, visão computacional e MLOps. Atualmente atuo com P&D na UFF e machine learning engineer.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/davi-emmerick/">
